@@ -1,5 +1,5 @@
 # [KOSBERES]
-> **Tagline:** [“Jasa Bersih Kos On-Demand, Cepat dan Terpercaya”]
+> [“Jasa Bersih Kos On-Demand, Cepat dan Terpercaya”]
 
 ---
 
