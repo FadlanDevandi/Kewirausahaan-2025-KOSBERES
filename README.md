@@ -4,17 +4,17 @@
 ---
 
 ## 👥 Tim Pengembang
-* **[Nama Ketua]** (NIM) - [Peran: CEO/Hustler]
-* **[Nama Anggota]** (NIM) - [Peran: CTO/Hacker]
-* **[Nama Anggota]** (NIM) - [Peran: CMO/Hipster]
-* **[Nama Anggota]** (NIM) - [Peran: CMO/Hipster]
-* **[Nama Anggota]** (NIM) - [Peran: CMO/Hipster]
-* **[Nama Anggota]** (NIM) - [Peran: CMO/Hipster]
+* **[Akbar Dharmawan L. Buldes]** (4523210008) - [Peran: CEO (Chief Executive Officer)]
+* **[Andi Ode Larios]** (4523210015) - [Peran: CTO (Chief Marketing Officer)]
+* **[Mohammad Fadlan Devandi]** (4523210065) - [Peran: CFO (Chief Financial Officer)]
+* **[Andhika Pramudya]** (4523210014) - [CTO (Chief Technology Officer)]
+* **[Athallah Sheva Moudzany R]** (4523210023) - [Peran: COO (Chief Operating Officer)]
+* **[Ahmad Farid Akbar]** (4523210006) - [Peran: Creative & Social Media Manager]
 
 ---
 
 ## 🔍 1. Laporan Validasi Lapangan (Field Work)
-Kami telah melakukan validasi masalah di wilayah **[Kos Sekitar Kampus]** dengan melibatkan **[10]** responden.
+Kami telah melakukan validasi masalah di wilayah **[Kosan Sekitar Kampus]** dengan melibatkan **[10]** responden.
 
 * **Permasalahan Utama:** [Penghuni kos, khususnya mahasiswa dan pekerja, sering mengalami kesulitan menjaga kebersihan kamar kos akibat keterbatasan waktu, aktivitas yang padat, kurangnya alat kebersihan, serta rendahnya motivasi untuk membersihkan kamar secara rutin.]
 * **Solusi yang Ditawarkan:** [KOSBERES menyediakan layanan jasa bersih kos on-demand berbasis online yang dapat dipesan dengan mudah melalui smartphone, menawarkan pembersihan kamar kos secara profesional, fleksibel, dan terjangkau sesuai kebutuhan pengguna.]
