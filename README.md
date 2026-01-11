@@ -45,4 +45,4 @@ Kami telah melakukan validasi masalah di wilayah **[Kosan Sekitar Kampus]** deng
 ## 📺 4. Presentasi Produk (Pitch Deck)
 Simak penjelasan lengkap mengenai potensi bisnis kami melalui video berikut:
 
-[![Video Pitching](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)](https://youtu.be/c4EzqN76L7c)
+[![Video Pitching](https://img.youtube.com/vi/c4EzqN76L7c/0.jpg)](https://youtu.be/c4EzqN76L7c)
