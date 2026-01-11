@@ -35,10 +35,10 @@ Kami telah melakukan validasi masalah di wilayah **[Kosan Sekitar Kampus]** deng
 ---
 
 ## ⚖️ 3. Aspek Legalitas & Mitigasi Risiko
-* **Status Merek:** [Aman/Tidak Aman berdasarkan PDKI]
-* **Bentuk Badan Usaha:** [PT Perorangan/CV]
+* **Status Merek:** [Aman berdasarkan PDKI]
+* **Bentuk Badan Usaha:** [CV]
 
-📄 **[AKSES DOKUMEN: Draft Legal & Terms of Service (Google Docs)](Link_Google_Docs_Legal)**
+📄 **[AKSES DOKUMEN: Draft Legal & Terms of Service (Google Docs)](https://docs.google.com/document/d/1NC7K-HMz9lICW0VMn4PViP_9R8qmI-yriYrOdbw2TmA/edit?usp=sharing)**
 
 ---
 
