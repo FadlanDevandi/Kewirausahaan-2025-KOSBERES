@@ -25,9 +25,9 @@ Kami telah melakukan validasi masalah di wilayah **[Kosan Sekitar Kampus]** deng
 ---
 
 ## 📊 2. Arsitektur Keuangan & Model Bisnis
-* **Modal Awal:** Rp [Nominal]
-* **Break Even Point (BEP):** Bulan ke-[Sekian]
-* **Proyeksi Profit (Bulan ke-3):** Rp [Nominal]
+* **Modal Awal:** Rp [500.000]
+* **Break Even Point (BEP):** Bulan ke-[2]
+* **Proyeksi Profit (Bulan ke-3):** Rp [1.400.000]
 
 📈 **[AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)](https://docs.google.com/spreadsheets/d/1-UDLKICQuAgJmbB5KBGgLBMOd7_k7oBYfnsTn_LIEN4/edit?usp=drivesdk)**
 *(Lembar kerja ini memuat perhitungan HPP, BEP, Arus Kas, dan Neraca dengan formula aktif)*
